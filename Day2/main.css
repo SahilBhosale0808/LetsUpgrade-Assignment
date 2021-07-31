@@ -1,0 +1,85 @@
+h1{
+    text-align: center;
+    color: #FF6263;
+    background-color: #0D0D0D;
+}
+#subtitle2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+#subheading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    background-color: black;
+    color:  #FF6263;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+body{
+    background-color: #EB4D4B;
+}
+#content{
+    font-family:'Courier New', monospace;
+    font-weight: bolder;
+    font-size: 20px;
+}
+ul{
+    font-family:'Courier New', monospace;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#head{
+    font-size: xx-large;  
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #B4161B;
+    background-color: black;
+    color: #FF6263;
+}
+#subtitle{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+#more{
+    float: left;
+    padding: 8px;
+}
+#moreinfo{
+    font-family:'Courier New', monospace;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#about {
+   float: right; text-decoration: none; padding: 5px; list-style-type: none
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+textarea{
+    resize: unset;
+    color: black;
+    background-color: #FF6263 ;
+    border:#BF3312;
+    
+}
+::placeholder{
+    color: black;
+}
+button{
+    color: black;
+    background-color: #FF6263;
+    
+}
